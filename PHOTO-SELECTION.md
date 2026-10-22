@@ -82,27 +82,31 @@ Six more photos selected and optimised locally for future publication:
 The optimized image package was prepared in the working session but is **not yet committed as binary files in GitHub**. The page HTML should not reference these filenames until image assets are actually committed and checked.
 
 
-## Approval update — family story and final photo batch (22 October 2026)
+## Family and workforce imagery — approved approach (22 October 2026)
 
-The owner explicitly authorises **two or three selected family photographs** on the website to represent Hairy's as a family-run business. Family images should live mainly on the About Us section, rather than replace job-result imagery in the hero/service pages. Do not display children's names, ages, schools, or other identifying personal details. Ask for consent/assent as appropriate before public publication.
+The business owner authorises **2–3 tasteful family photos** to demonstrate that Hairy's is family-run, with appropriate permission for any children shown. Do not publish children's names, ages, schools, schedules or location-identifying information. Favor family images on About Us, not on core service landing pages.
 
-Latest photograph assessment:
-- `image(20261022-113019).png` — two workers with push/zero-turn mowing equipment, **strong** for lawn mowing hero/service page.
-- `image(20261022-113036).png` — operators seated on mowers, **secondary** if a different crop is desired; avoid duplicating near-identical scene.
-- `image(20261022-112926).png` — well-maintained hedge; **strong** gardening/hedge trimming evidence. No claim of a before/after without a matched before.
-- `image(20261022-113338).png` — cleaned door hardware; **after** shot for cleaning/detail work.
-- `image(20261022-113210).png` and `image(20261022-113240).png` — worn/marked door hardware, **before** options for the same cleaning/polishing comparison. Confirm whether actual matched hardware before pairing; the angles and fitting details differ.
-- `image(20261022-113142).png` — possible solar panel service illustration only, but do not claim the photograph documents a completed clean without verification.
-- `image(20261022-113312).png` — potential family-story photograph (adult and children at celebration), one of maximum two child-containing photos, keep only with parent/child permission.
-- `image(20261022-113107).png` — portrait of child in branded shirt; optional secondary family photo with permission, but prefer professional story instead of extensive child portrait gallery.
-- `image(20261022-112955).png` — adult worker in branded shirt; useful secondary team portrait.
-- Existing adult owner/manager portrait from previous uploads and branded cleaning-crew photo remain strong for About Us and services.
+Workers looking happy and enjoying team camaraderie are equally valuable for recruitment. Select genuine candid photographs of staff in branded uniforms and at work, with their permission, for the About Us and Careers pages. Avoid staged claims such as awards, paid training, guaranteed accommodation or guaranteed visa eligibility without confirmation.
 
-Explicitly hold:
-- `image(20261022-113036).png` as alternate only, not needed when stronger mowing operator picture is used.
-- `image(20261022-113019).png` is preferred main mower photo.
-- `image(20261022-113107).png` until publication permission is confirmed for the child.
-- `image(20261022-113312).png` until publication permission is confirmed for the children.
-- `image(20261022-113? child machinery)` / `image(20261022-113? hunting)`: do not use children's heavy-equipment seated pictures or photos showing firearms to promote the business. In the actual uploaded batch these are `image(20261022-113036).png`? **Do not rely on an inferred filename**. For clarity: the child-on-loader photograph in this batch is `image(20261022-113019).png`? **Verify filenames visually before selecting, never publish by assumption.**
+### Verified latest upload filenames
 
-Enough real visual material is available for the initial site across lawn mowing, hedges/gardening, cleaning and handyman, plus genuine team/family story. More photo collection is optional, not a launch blocker. No fence-build photos, unrelated-business photos, or synthetic "after" photos.
+| Uploaded file | Visual subject | Decision |
+|---|---|---|
+| `image(20261022-112926).png` | Healthy, tall street-side hedge | Gardening candidate |
+| `image(20261022-112955).png` | Solar panels on a roof | Possible solar services illustration; not labelled a completed clean |
+| `image(20261022-113019).png` | Two workers and their zero-turn mowers with trimmer | **Best mowing/team action photo** |
+| `image(20261022-113036).png` | Same two operators seated on zero-turn mowers | Secondary/alternate |
+| `image(20261022-113107).png` | Family at birthday celebration, children present | Family-story candidate, obtain permission |
+| `image(20261022-113142).png` | Adult outdoors holding a firearm | Do not use |
+| `image(20261022-113210).png` | Clean metal door handle and backplate labelled After | Cleaning result candidate |
+| `image(20261022-113240).png` | Marked metal door handle close-up labelled Before | Cleaning before candidate |
+| `image(20261022-113312).png` | Marked metal door handle wide view labelled Before | Cleaning before alternate |
+| `image(20261022-113338).png` | Clean metal door handle wide view labelled After | Cleaning result alternate |
+
+### Additional people images from earlier uploads
+- `image(20261022-112742).png` — two adults in Hairy's uniforms and branded caps: good About Us / family-business image.
+- `image(20261022-112826).png` — group of cleaning crew with equipment: strong recruitment/cleaning image if all photographed workers consent.
+- `image(20261022-111954).png` — two adults in branded workwear, casual candid photo: possible About Us image.
+- Child in loader controls in previously supplied batch: exclude from promotional website.
+
+There is already enough imagery for an initial website design. Use **real work first, people second**. No fence-building projects or unrelated western-wear profile imagery. Photo files prepared separately still require uploading to GitHub before the HTML can display them.
