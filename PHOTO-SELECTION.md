@@ -27,3 +27,16 @@
 - Do not publish uploaded files until they are staged through a supported binary asset workflow and approved.
 
 This selection log reflects photos reviewed in October 2026 and can be revised as better images are supplied.
+
+## Google Business Profile Takeout reviewed — 22 October 2026
+
+The user uploaded a Google Takeout ZIP containing **two different Business Profile locations**. The location metadata establishes:
+
+- Hairy's Home Services Pty Ltd: `location-554608171011110769` — 40 photo files and 1 video.
+- 2H Cowgirl Co. (a separate, unrelated business): `location-3797578165072369038` — **completely excluded** from Hairy's photo review.
+
+Only two items from the Hairy's export currently pass the strict public-website shortlist:
+- `assets/images/hairys-zero-turn-mowing.webp` — source `media-CIABIhAIN0uGkgKqv2f3EXAAA4TX.jpeg`, zero-turn mowing long grass, clear action photo.
+- `assets/images/hairys-home-services-logo.webp` — source `media-profile.jpeg`, brand logo (small source resolution; obtain original design if possible).
+
+All other photos from this export are **not selected for publication**. This includes all fence-building photos, backlit or low-quality yard photographs, personal/team portraits pending permission, and images of unrelated businesses. A two-image compressed ZIP was prepared for upload; image files have **not** yet been pushed to the repository. The website must not point to these assets until they're uploaded. Other photos previously supplied in chat remain separately considered.
