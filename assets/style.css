@@ -217,3 +217,9 @@ footer:not(.footer){background:#071f39;color:#e2f2fa;padding:24px 0;font-size:.8
  .mobile-lead-bar a:first-child{background:var(--navy)}
  .nav-actions .phone{display:none}
 }
+
+/* Official business-profile links */
+.social-profiles{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 10px}
+.social-profiles a{display:inline-flex;align-items:center;justify-content:center;border:1px solid #b9def0;background:#fff;color:#085982;text-decoration:none;font-size:.92rem;font-weight:800;padding:10px 15px;border-radius:10px}
+.social-profiles a:hover{background:#e6f6fc}
+.footer .google-social-link{display:block;margin-top:9px}
