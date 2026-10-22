@@ -80,3 +80,29 @@ Six more photos selected and optimised locally for future publication:
 **Rejected/held from this upload:** children's portraits, child sitting at controls of heavy equipment, private personal scenes, and people whose age/publication consent is uncertain. No photos showcasing fences built by Hairy's are to be published. Do not imply a repaired item is a finished licensed trade job.
 
 The optimized image package was prepared in the working session but is **not yet committed as binary files in GitHub**. The page HTML should not reference these filenames until image assets are actually committed and checked.
+
+
+## Approval update — family story and final photo batch (22 October 2026)
+
+The owner explicitly authorises **two or three selected family photographs** on the website to represent Hairy's as a family-run business. Family images should live mainly on the About Us section, rather than replace job-result imagery in the hero/service pages. Do not display children's names, ages, schools, or other identifying personal details. Ask for consent/assent as appropriate before public publication.
+
+Latest photograph assessment:
+- `image(20261022-113019).png` — two workers with push/zero-turn mowing equipment, **strong** for lawn mowing hero/service page.
+- `image(20261022-113036).png` — operators seated on mowers, **secondary** if a different crop is desired; avoid duplicating near-identical scene.
+- `image(20261022-112926).png` — well-maintained hedge; **strong** gardening/hedge trimming evidence. No claim of a before/after without a matched before.
+- `image(20261022-113338).png` — cleaned door hardware; **after** shot for cleaning/detail work.
+- `image(20261022-113210).png` and `image(20261022-113240).png` — worn/marked door hardware, **before** options for the same cleaning/polishing comparison. Confirm whether actual matched hardware before pairing; the angles and fitting details differ.
+- `image(20261022-113142).png` — possible solar panel service illustration only, but do not claim the photograph documents a completed clean without verification.
+- `image(20261022-113312).png` — potential family-story photograph (adult and children at celebration), one of maximum two child-containing photos, keep only with parent/child permission.
+- `image(20261022-113107).png` — portrait of child in branded shirt; optional secondary family photo with permission, but prefer professional story instead of extensive child portrait gallery.
+- `image(20261022-112955).png` — adult worker in branded shirt; useful secondary team portrait.
+- Existing adult owner/manager portrait from previous uploads and branded cleaning-crew photo remain strong for About Us and services.
+
+Explicitly hold:
+- `image(20261022-113036).png` as alternate only, not needed when stronger mowing operator picture is used.
+- `image(20261022-113019).png` is preferred main mower photo.
+- `image(20261022-113107).png` until publication permission is confirmed for the child.
+- `image(20261022-113312).png` until publication permission is confirmed for the children.
+- `image(20261022-113? child machinery)` / `image(20261022-113? hunting)`: do not use children's heavy-equipment seated pictures or photos showing firearms to promote the business. In the actual uploaded batch these are `image(20261022-113036).png`? **Do not rely on an inferred filename**. For clarity: the child-on-loader photograph in this batch is `image(20261022-113019).png`? **Verify filenames visually before selecting, never publish by assumption.**
+
+Enough real visual material is available for the initial site across lawn mowing, hedges/gardening, cleaning and handyman, plus genuine team/family story. More photo collection is optional, not a launch blocker. No fence-build photos, unrelated-business photos, or synthetic "after" photos.
