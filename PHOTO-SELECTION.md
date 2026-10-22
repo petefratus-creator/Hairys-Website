@@ -40,3 +40,24 @@ Only two items from the Hairy's export currently pass the strict public-website 
 - `assets/images/hairys-home-services-logo.webp` — source `media-profile.jpeg`, brand logo (small source resolution; obtain original design if possible).
 
 All other photos from this export are **not selected for publication**. This includes all fence-building photos, backlit or low-quality yard photographs, personal/team portraits pending permission, and images of unrelated businesses. A two-image compressed ZIP was prepared for upload; image files have **not** yet been pushed to the repository. The website must not point to these assets until they're uploaded. Other photos previously supplied in chat remain separately considered.
+
+
+## New direct uploads — logo, people, equipment and cleaning (22 October 2026)
+
+The user supplied eight additional images. **These are photos of Hairy's and may be used selectively**, but none of the media are to be mistaken for completed fencing projects. Images were processed into standalone WebP files, provided to the user as `Hairys_New_Website_Photos.zip`; **they are not yet on GitHub**.
+
+### Preferred for publication
+- `hairys-original-logo.webp` — use the user's clearer, actual Hairy's logo as first-choice branding, not a fabricated substitute. White background intact.
+- `hairys-team-founders.webp` — two smiling uniformed people with Hairy's branded shirts/hats; strongest people photo; ideal About Us / local team section. Describe as **team**, not by invented identities or roles.
+- `hairys-vehicle-equipment.webp` — identifiable work vehicle/trailer; useful on About Us / Commercial Maintenance as equipment context.
+- `hairys-ceiling-fan-before.webp`, `hairys-ceiling-fan-after.webp` — verified pair illustrating ceiling-fan cleaning. The **after** includes original overlaid words “I love what we do”; leave them untouched unless a user-approved crop removes the full overlay. Label it cleaning only, not repair or installation.
+
+### Secondary/hold
+- `hairys-team-candid.webp` — warm, candid vehicle selfie; secondary About Us image.
+- `hairys-team-additional.webp` — two young-looking team members in branded blue shirts; hold for individual consent and prioritise less personally identifiable photos.
+- The other vehicle selfie includes decorated “Tuesday” text and is omitted from this package; not professional enough for landing page.
+
+### Content guidance
+- Promote Hairy's proven local services, avoid stock-looking image claims and fabricated job results.
+- Do not show fence-build photographs. Incidental boundary fencing as background is not a project showcase.
+- Keep team photos secondary to actual work examples, and verify rights/consent for all individuals.
