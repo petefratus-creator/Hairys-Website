@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hairyshomeservices.com.au/sitemap.xml
