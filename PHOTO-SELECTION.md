@@ -61,3 +61,22 @@ The user supplied eight additional images. **These are photos of Hairy's and may
 - Promote Hairy's proven local services, avoid stock-looking image claims and fabricated job results.
 - Do not show fence-build photographs. Incidental boundary fencing as background is not a project showcase.
 - Keep team photos secondary to actual work examples, and verify rights/consent for all individuals.
+
+
+## Additional uploads — 22 October 2026 (lawn, cleaning and crew)
+
+Six more photos selected and optimised locally for future publication:
+
+| Source uploaded | Prepared WebP filename | Page/role | Notes |
+|---|---|---|---|
+| `image(20261022-112334).png` | `mowing-large-block-in-progress.webp` | Lawn mowing service page | Good visible half-mowed progress; label as in-progress, not "after" |
+| `image(20261022-112626).png` | `cupboard-cleaning-before.webp` | Cleaning portfolio | Dirty under-sink cupboard — **before** |
+| `image(20261022-112604).png` | `cupboard-cleaning-after.webp` | Cleaning portfolio | Cleaned cupboard — **after**; uploaded ahead of the before image |
+| Pair above | `cupboard-cleaning-comparison.webp` | Cleaning portfolio | Clearly labelled before/after composite; no material edits |
+| `image(20261022-112826).png` | `cleaning-crew-team.webp` | About us/cleaning service | Genuine blue-shirt cleaning crew at work; verify publication permissions for all pictured |
+| `image(20261022-112854).png` | `hedge-trimming-result.webp` | Gardening service | Neatly cut hedge; don't present as paired transformation without actual before photo |
+| `image(20261022-112742).png` | `business-team-founders.webp` | About us | Branded team portrait; verify rights/consent before publication |
+
+**Rejected/held from this upload:** children's portraits, child sitting at controls of heavy equipment, private personal scenes, and people whose age/publication consent is uncertain. No photos showcasing fences built by Hairy's are to be published. Do not imply a repaired item is a finished licensed trade job.
+
+The optimized image package was prepared in the working session but is **not yet committed as binary files in GitHub**. The page HTML should not reference these filenames until image assets are actually committed and checked.
