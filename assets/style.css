@@ -195,3 +195,25 @@ footer:not(.footer){background:#071f39;color:#e2f2fa;padding:24px 0;font-size:.8
  html{scroll-behavior:auto}
  .btn,.service-card{transition:none}
 }
+
+
+/* Seasonal mowing lead capture. Small, responsive, no pop-ups. */
+.season-ribbon{background:#082e51;color:#fff}
+.ribbon-inner{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:13px 0;font-size:.94rem;line-height:1.5}
+.ribbon-inner strong{color:#fff;font-weight:850}
+.ribbon-inner a{white-space:nowrap;font-weight:850;color:#fff;text-decoration:underline;text-decoration-color:#62d7fb;text-underline-offset:5px}
+.mow-convert{background:#e0f5fc}
+.mow-priority{background:#e1f4fc}
+.mow-convert .btn,.mow-priority .btn{margin-bottom:8px}
+.mobile-lead-bar{display:none}
+@media(max-width:850px){
+ .ribbon-inner{align-items:flex-start;flex-direction:column;gap:6px}
+ .ribbon-inner a{white-space:normal}
+}
+@media(max-width:600px){
+ body:has(.mobile-lead-bar){padding-bottom:72px}
+ .mobile-lead-bar{position:fixed;display:grid;grid-template-columns:1fr 1fr;gap:8px;bottom:0;left:0;right:0;z-index:50;padding:10px 12px max(10px,env(safe-area-inset-bottom));background:#fff;box-shadow:0 -3px 18px #001d3640}
+ .mobile-lead-bar a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:43px;border-radius:9px;text-decoration:none;font-weight:850;font-size:.92rem;color:#fff;background:var(--brand-deep)}
+ .mobile-lead-bar a:first-child{background:var(--navy)}
+ .nav-actions .phone{display:none}
+}
